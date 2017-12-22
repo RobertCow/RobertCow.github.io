@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0af87f66-8d05-490b-82f4-4394c4c42e45" name="默认的" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home/single.html" afterPath="$PROJECT_DIR$/home/single.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/home/img/avatar.png" afterPath="$PROJECT_DIR$/home/img/me.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wyy/index.html" afterPath="$PROJECT_DIR$/wyy/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -21,7 +20,7 @@
         <entry file="file://$PROJECT_DIR$/home/single.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-351">
-              <caret line="11" column="25" lean-forward="true" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+              <caret line="11" column="25" lean-forward="false" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -34,10 +33,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="me.png" pinned="false" current-in-tab="true">
+      <file leaf-file-name="me.png" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/home/img/me.png">
           <provider selected="true" editor-type-id="images">
             <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/wyy/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="298">
+              <caret line="57" column="65" lean-forward="true" selection-start-line="57" selection-start-column="65" selection-end-line="57" selection-end-column="65" />
+              <folding />
+            </state>
           </provider>
         </entry>
       </file>
@@ -45,6 +54,13 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/wyy/index.html" />
+      </list>
+    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -84,13 +100,7 @@
             <path>
               <item name="RobertCow.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="RobertCow.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="home" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="RobertCow.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RobertCow.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="home" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
+              <item name="wyy" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -126,12 +136,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1513920721172</updated>
-      <workItem from="1513920723185" duration="632000" />
+      <workItem from="1513920723185" duration="1321000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="632000" />
+    <option name="totallyTimeSpent" value="1321000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1046" extended-state="6" />
@@ -171,7 +181,7 @@
     <entry file="file://$PROJECT_DIR$/home/single.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-351">
-          <caret line="11" column="25" lean-forward="true" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+          <caret line="11" column="25" lean-forward="false" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
           <folding />
         </state>
       </provider>
@@ -184,6 +194,14 @@
     <entry file="file://$PROJECT_DIR$/home/img/me.png">
       <provider selected="true" editor-type-id="images">
         <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wyy/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="57" column="65" lean-forward="true" selection-start-line="57" selection-start-column="65" selection-end-line="57" selection-end-column="65" />
+          <folding />
+        </state>
       </provider>
     </entry>
   </component>
