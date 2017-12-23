@@ -4,7 +4,7 @@ body {
   line-height: 27px;
   font-family: 'Open Sans', sans-serif;
   color: #444;
-  background-color: #fff;
+  background-color: #0fb9ff;
 }
 
 a {
@@ -38,7 +38,7 @@ h3 {
 }
 
 hr {
-  border-top-color: #ced5db;
+  border-top-color: #0fb9ff;
 }
 
 /* =============== 
@@ -51,13 +51,13 @@ Font Awesome Icons
 ::selection {
   background: #566572;
   /* Safari */
-  color: #feffff;
+  color: #0fb9ff;
 }
 
 ::-moz-selection {
   background: #566572;
   /* Firefox */
-  color: #feffff;
+  color: #0fb9ff;
 }
 
 .masthead {
@@ -71,7 +71,7 @@ Font Awesome Icons
 }
 
 .widewrapper {
-  background-color: #fff;
+  background-color: #0fb9ff;
 }
 
 .widewrapper.main {
@@ -79,7 +79,7 @@ Font Awesome Icons
 }
 
 .widewrapper.masthead {
-  background-color: #fff;
+  background-color: #0fb9ff;
   color: #f8f8f9;
   border-bottom: #aaa;
 }
@@ -509,7 +509,7 @@ The list with special bullet points, used both on blog widgets as well as in the
 }
 
 .footer .clean-list li a:hover {
-  color: #ffffff;
+  color: #0fb9ff0fb9ff;
 }
 
 .footer .clean-list li:before {
@@ -688,7 +688,7 @@ The tags widget
 The blog main page boxes 
 =============== */
 .blog-teaser {
-  background-color: #fff;
+  background-color: #0fb9ff;
   border: 1px solid #ddd;
   margin-bottom: 40px;
 }
@@ -1246,7 +1246,7 @@ Buttons used in clean
 .open .dropdown-toggle.btn-clean-one {
   color: #000;
   border-color: #222;
-  background-color: #fff;
+  background-color: #0fb9ff;
 }
 
 .btn-clean-one:active,
@@ -1280,11 +1280,11 @@ fieldset[disabled] .btn-clean-one.active {
 
 
 .btn-clean-one .caret {
-  border-top-color: #ffffff;
+  border-top-color: #0fb9ff0fb9ff;
 }
 
 .btn-clean-two {
-  color: #ffffff;
+  color: #0fb9ff0fb9ff;
   background-color: #485561;
   border-color: #3c4852;
   background-image: -webkit-gradient(linear, left 0%, left 100%, from(#485561), to(#2e363e));
@@ -1301,7 +1301,7 @@ fieldset[disabled] .btn-clean-one.active {
 .btn-clean-two:active,
 .btn-clean-two.active,
 .open .dropdown-toggle.btn-clean-two {
-  color: #ffffff;
+  color: #0fb9ff0fb9ff;
   background-color: #37404a;
   border-color: #22292f;
 }
@@ -1344,7 +1344,7 @@ fieldset[disabled] .btn-clean-two.active {
 }
 
 .btn-clean-two .caret {
-  border-top-color: #ffffff;
+  border-top-color: #0fb9ff0fb9ff;
 }
 
 .btn-xlarge {
