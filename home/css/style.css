@@ -509,7 +509,7 @@ The list with special bullet points, used both on blog widgets as well as in the
 }
 
 .footer .clean-list li a:hover {
-  color: #0fb9ff0fb9ff;
+  color: #0fb9ff;
 }
 
 .footer .clean-list li:before {
@@ -1280,11 +1280,11 @@ fieldset[disabled] .btn-clean-one.active {
 
 
 .btn-clean-one .caret {
-  border-top-color: #0fb9ff0fb9ff;
+  border-top-color: #0fb9ff;
 }
 
 .btn-clean-two {
-  color: #0fb9ff0fb9ff;
+  color: #0fb9ff;
   background-color: #485561;
   border-color: #3c4852;
   background-image: -webkit-gradient(linear, left 0%, left 100%, from(#485561), to(#2e363e));
@@ -1301,7 +1301,7 @@ fieldset[disabled] .btn-clean-one.active {
 .btn-clean-two:active,
 .btn-clean-two.active,
 .open .dropdown-toggle.btn-clean-two {
-  color: #0fb9ff0fb9ff;
+  color: #0fb9ff;
   background-color: #37404a;
   border-color: #22292f;
 }
