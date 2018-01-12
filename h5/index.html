@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta name="viewport" content="width=device-width,initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+	<meta charset="utf-8">
+	<title>表单实例</title>
+	<style type="text/css">
+		.btn{
+			width: 100px;
+			height: 40px;
+			border: 1px solid purple;
+			border-radius: 8px;
+			background-color: orange;
+			font-size: 1rem;
+
+			color: white
+		}
+		body{
+			font-size: 1rem;
+		}
+	</style>
+</head>
+<body>
+
+	<form id="userform" action="your url" method="post"
+	title="用户注册表单" target="_self"  enctype="multipart/form-data" >
+	<fieldset>
+		<legend>用户注册信息</legend>
+		<br>
+		昵称：<input type="text" name="un" maxlength="5" value="Tom">
+		<br>
+		<br>
+		密码：<input type="password" name="pw" maxlength="10">
+		<br>
+		<br>
+		性别：<input type="radio" name="gender" value="m" checked="checked">男
+		<input type="radio" name="gender" value="w">女
+		<br>
+		<br>
+		头像：<input type="file" name="profile" id="userphoto">
+		<br>
+		<br>
+		籍贯：<select>
+			<option>湖北</option>
+			<option>上海</option>
+			<option>河南</option>
+			<option>湖南</option>
+			<option selected="selected">北京</option>
+		</select>
+		<br>
+		<br>
+		爱好：
+		<br>
+		<br>
+		<input type="checkbox" name="hobby">读书
+			<input type="checkbox" name="hobby">看电影
+			<input type="checkbox" name="hobby">打乒乓球
+			<input type="checkbox" name="hobby">玩游戏
+		<br>
+		<br>
+		个人简介：
+		<br>
+		<br>
+		<textarea name="introduce" cols="30" rows="10">请在此输入简介</textarea>
+		<br>
+		<br>
+		个人网站：<input type="userurl" name="" type="url">
+		<br>
+		<br>
+		个人邮箱：<input type="email" name="useremail">
+		<br>
+		<br>
+		身体体重：<input type="number" name="userweight">
+		<br>
+		<br>
+		出身日期：<input type="date" name="userdate">
+		<br>
+		<br>
+		详细时间：<input type="time" name="usertime">
+		<br>
+		<br>
+		性格颜色：<input type="color" name="usercolor">
+		<br>
+		<br>
+		毕业院校：<input type="text" name="school" form="userform">
+		<br>
+		<br>
+	
+	<div style="text-align: center;"><button class="btn">注册</button><button style="margin-left: 50px;">登录</button></div>
+	</fieldset>
+
+</form>
+<br>
+<br>
+
+
+</body>
+</html>
